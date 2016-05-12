@@ -2,5 +2,6 @@
 
 11.05.2016
 
-Fuzzy Clusters\n
+Fuzzy Clusters
+
 Problem Set - Excercise 1
